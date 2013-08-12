@@ -1,0 +1,9 @@
+{
+  "name": "server-status-tracker",
+  "version": "0.1",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x",
+	"postmark": "0.1.x"
+  }
+}
